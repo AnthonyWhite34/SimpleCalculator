@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e809f61887cbbdc3414d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimpleCalculator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCalculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCalculator-Debug-3c7128a4df1e667de18d.json",
+					"name" : "SimpleCalculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCalculator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCalculator_autogen-Debug-c8f6c588c8e0ec12d785.json",
+					"name" : "SimpleCalculator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCalculator_autogen_timestamp_deps-Debug-a454ef2294d4198ec56d.json",
+					"name" : "SimpleCalculator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug",
+		"source" : "D:/Projects/CMake/SimpleCalculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

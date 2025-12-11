@@ -1,0 +1,8 @@
+D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/SimpleCalculator.dir
+D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/SimpleCalculator_autogen_timestamp_deps.dir
+D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/CMakeFiles/SimpleCalculator_autogen.dir

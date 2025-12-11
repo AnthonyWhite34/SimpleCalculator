@@ -1,0 +1,9 @@
+# ninja log v6
+9	281	7796706813603861	SimpleCalculator_autogen/timestamp	cf6e6b9e5181176f
+282	1880	7796706814013857	CMakeFiles/SimpleCalculator.dir/SimpleCalculator_autogen/mocs_compilation.cpp.obj	4b133b09182e5316
+293	1907	7796706814123877	CMakeFiles/SimpleCalculator.dir/mainwindow.cpp.obj	a01e2ff91c717c9a
+9	281	7796706813603861	SimpleCalculator_autogen/mocs_compilation.cpp	cf6e6b9e5181176f
+1907	2177	7796706830263853	SimpleCalculator.exe	317725dc10e0199f
+9	281	7796706813603861	D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/SimpleCalculator_autogen/timestamp	cf6e6b9e5181176f
+9	281	7796706813603861	D:/Projects/CMake/SimpleCalculator/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/SimpleCalculator_autogen/mocs_compilation.cpp	cf6e6b9e5181176f
+288	1882	7796706814073862	CMakeFiles/SimpleCalculator.dir/main.cpp.obj	46d8ae7110fd2138
